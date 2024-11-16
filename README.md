@@ -1,4 +1,6 @@
 # demo-serial-device
+[![Compile Arduino Sketch](https://github.com/mattfors/demo-serial-device/actions/workflows/main.yml/badge.svg)](https://github.com/mattfors/demo-serial-device/actions/workflows/main.yml)
+
 This is a simple Arduino sketch used for testing serial apps. It provides a few basic commands that can be used to test serial communication.
 
 ## Commands
